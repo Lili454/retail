@@ -3,89 +3,16 @@
     {
       "articleNo": 12345,
       "availability": "available",
-      "items": [
-        {
-          "itemNo": 1,
-          "productDetails": [
-            {
-              "Brand": "Dress",
-              "Item": "Yellow Summer Dress",
-              "quantity": 10,
-              "Size": ["S", "M", "L"], 
-              "url": "https://img.freepik.com/free-photo/pretty-red-head-woman-yellow-dress-posing-yellow-summer-mood_273443-4421.jpg?size=626&ext=jpg&ga=GA1.2.204480486.1667913872&semt=sph"
-            }
-          ]
+      "items": "Yellow Summer Dress",
+      "Size": ["S", "M", "L"],
+      "url": "https://img.freepik.com/free-photo/pretty-red-head-woman-yellow-dress-posing-yellow-summer-mood_273443-4421.jpg?size=626&ext=jpg&ga=GA1.2.204480486.1667913872&semt=sph"
         },
-        {
-          "itemNo": 2,
-          "productDetails": [
-            {
-              "Brand": "Aerie",
-              "Item": "Aerie leggings 3/4",
-              "quantity": 2,
-              "Size": "EU S",
-              "Color": "Black",
-              "url": "https://cdn.pixabay.com/photo/2020/03/31/10/11/fitness-4986994_960_720.jpg"
-            }
-          ]
-        }
-      ]
-    },
     {
-      "orderNo": 12342,
-      "orderDate": "29-10-2022",
-      "overallOrderStatus": "delivered",
-      "courier": "DHL",
-      "estimatedDelDate": "30-11-2022",
-      "items": [
-        {
-          "itemNo": 1,
-          "productDetails": [
-            {
-              "Brand": "Aerie",
-              "Item": "Hamptons dress",
-              "quantity": 1,
-              "Size": "EU S",
-              "Color": "Multi",
-              "url": "https://cdn.pixabay.com/photo/2016/06/29/04/39/bride-1486004_960_720.jpg"
-            }
-          ]
+      "articleNo": 54321,
+      "availability": "available",
+      "items": "Pink Sweater"
+      "Size": ["XS", "S", "M"]
+      "url": "https://img.freepik.com/free-photo/pink-sweater-front_125540-746.jpg?size=626&ext=jpg&ga=GA1.2.204480486.1667913872&semt=sph"
         },
-        {
-          "itemNo": 2,
-          "productDetails": [
-            {
-              "Brand": "Aerie",
-              "Item": "Original",
-              "quantity": 1,
-              "Size": "EU 40",
-              "Color": "Navy",
-              "url": "https://cdn.pixabay.com/photo/2020/05/26/07/43/skateboard-5221914_960_720.jpg"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "orderNo": 12343,
-      "orderDate": "01-11-2022",
-      "overallOrderStatus": "cancelled",
-      "cancelledReason": "no stock",
-      "items": [
-        {
-          "itemNo": 1,
-          "productDetails": [
-            {
-              "Brand": "Aerie",
-              "Item": "Aerie Smith",
-              "quantity": 1,
-              "Size": "EU 41 2/3",
-              "Color": "White",
-              "url": "https://cdn.pixabay.com/photo/2017/07/02/21/34/sport-shoe-2465915_960_720.jpg"
-            }
-          ]
-        }
       ]
     }
-  ]
-}
