@@ -19,23 +19,10 @@
             }
           ]
         },
-        {
-          "itemNo": 2,
-          "productDetails": [
-            {
-              "Brand": "Aerie",
-              "Item": "Aerie leggings 3/4",
-              "quantity": 2,
-              "Size": "EU S",
-              "Color": "Black",
-              "url": "https://cdn.pixabay.com/photo/2020/03/31/10/11/fitness-4986994_960_720.jpg"
-            }
-          ]
-        }
       ]
     },
     {
-      "orderNo": 12342,
+      "articleNo": 54321,
       "orderDate": "29-10-2022",
       "overallOrderStatus": "delivered",
       "courier": "DHL",
@@ -46,11 +33,11 @@
           "productDetails": [
             {
               "Brand": "Aerie",
-              "Item": "Hamptons dress",
-              "quantity": 1,
-              "Size": "EU S",
-              "Color": "Multi",
-              "url": "https://cdn.pixabay.com/photo/2016/06/29/04/39/bride-1486004_960_720.jpg"
+              "Item": "Pink Sweater",
+              "quantity": 2,
+              "Size": ["XS", "S", "M"],
+              "Color": "Black",
+              "url": "https://img.freepik.com/free-photo/pink-sweater-front_125540-746.jpg?size=626&ext=jpg&ga=GA1.2.204480486.1667913872&semt=sph"
             }
           ]
         },
