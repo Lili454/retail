@@ -1,7 +1,7 @@
 {
   "orders": [
     {
-      "articleNo": 12345,
+      "orderNo": 12321,
       "orderDate": "22-11-2022",
       "overallOrderStatus": "shipped",
       "courier": "UPS",
@@ -10,11 +10,12 @@
           "itemNo": 1,
           "productDetails": [
             {
-              "Item": "Yellow Summer Dress",
+              "Brand": "Aerie",
+              "Item": "Aeire Force One",
               "quantity": 1,
-              "Size": ["S", "M", "L"],
+              "Size": "EU 38",
               "Color": "White",
-              "url": "https://img.freepik.com/free-photo/pretty-red-head-woman-yellow-dress-posing-yellow-summer-mood_273443-4421.jpg?size=626&ext=jpg&ga=GA1.2.204480486.1667913872&semt=sph"
+              "url": "https://cdn.pixabay.com/photo/2020/05/26/07/43/skateboard-5221914_960_720.jpg"
             }
           ]
         },
@@ -23,11 +24,11 @@
           "productDetails": [
             {
               "Brand": "Aerie",
-              "Item": "Pink Sweater",
+              "Item": "Aerie leggings 3/4",
               "quantity": 2,
-              "Size": ["XS", "S", "M"],
+              "Size": "EU S",
               "Color": "Black",
-              "url": "https://img.freepik.com/free-photo/pink-sweater-front_125540-746.jpg?size=626&ext=jpg&ga=GA1.2.204480486.1667913872&semt=sph"
+              "url": "https://cdn.pixabay.com/photo/2020/03/31/10/11/fitness-4986994_960_720.jpg"
             }
           ]
         }
