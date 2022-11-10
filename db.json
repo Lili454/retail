@@ -2,9 +2,7 @@
   "orders": [
     {
       "articleNo": 12345,
-      "orderDate": "22-11-2022",
-      "overallOrderStatus": "shipped",
-      "courier": "UPS",
+      "availability": "available",
       "items": [
         {
           "itemNo": 1,
@@ -35,10 +33,8 @@
       ]
     },
     {
-      "orderNo": 12342,
-      "orderDate": "29-10-2022",
-      "overallOrderStatus": "delivered",
-      "courier": "DHL",
+      "articleNo": 54321,
+      "availability": "avaialble",
       "estimatedDelDate": "30-11-2022",
       "items": [
         {
