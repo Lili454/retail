@@ -14,7 +14,7 @@
               "Item": "Yellow Summer Dress",
               "quantity": 1,
               "Size": ["S", "M", "L"],
-              "Color": "White",
+              "Color": "Yellow",
               "url": "https://img.freepik.com/free-photo/pretty-red-head-woman-yellow-dress-posing-yellow-summer-mood_273443-4421.jpg?size=626&ext=jpg&ga=GA1.2.204480486.1667913872&semt=sph"
             }
           ]
@@ -27,7 +27,7 @@
               "Item": "Pink Sweater",
               "quantity": 2,
               "Size": ["XS", "S", "M"],
-              "Color": "Black",
+              "Color": "Pink",
               "url": "https://img.freepik.com/free-photo/pink-sweater-front_125540-746.jpg?size=626&ext=jpg&ga=GA1.2.204480486.1667913872&semt=sph"
             }
           ]
@@ -46,11 +46,11 @@
           "productDetails": [
             {
               "Brand": "Aerie",
-              "Item": "Hamptons dress",
+              "Item": "Pink Sweater",
               "quantity": 1,
-              "Size": "EU S",
-              "Color": "Multi",
-              "url": "https://cdn.pixabay.com/photo/2016/06/29/04/39/bride-1486004_960_720.jpg"
+              "Size": ["XS", "S", "M"],
+              "Color": "Pink",
+              "url": "https://img.freepik.com/free-photo/pink-sweater-front_125540-746.jpg?size=626&ext=jpg&ga=GA1.2.204480486.1667913872&semt=sph"
             }
           ]
         },
